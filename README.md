@@ -2,6 +2,9 @@
 
 This project uses Long Short-Term Memory (LSTM) neural networks to predict Apple (AAPL) stock prices using both daily and 1-minute intraday data. The model outputs predictions, evaluates accuracy, and flags strong buy signals when both timeframes agree.
 
+The models are trained on real stock market data and combined to simulate intelligent trading signals (BUY / SELL / HOLD).  
+Evaluation metrics, visualizations, and signal logic are included to assess performance and support decision-making.
+
 ## Project Structure
 
 - `stock_market_trend_using_LSTM.ipynb`: Main notebook for data preprocessing, training, and prediction.
