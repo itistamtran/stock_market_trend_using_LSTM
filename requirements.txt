@@ -1,0 +1,26 @@
+# Core Libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# System and Utilities
+python-dotenv
+joblib
+
+# Date and Time
+datetime
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
+
+# Financial Data APIs
+yfinance
+alpha_vantage
+
+# Technical Analysis
+ta
