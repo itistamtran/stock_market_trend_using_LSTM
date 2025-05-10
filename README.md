@@ -17,7 +17,7 @@ Evaluation metrics, visualizations, and signal logic are included to assess perf
 
 - Two LSTM models: one for daily and one for intraday price predictions.
 - Real-time 1-minute data via Alpha Vantage.
-- Evaluation metrics: MAE, RMSE, and MAPE.
+- Evaluation metrics: MAE, and RMSE.
 - Decision logic to flag **"Strong Buy Signal"** if both models predict upward movement.
 
 ## Usage
