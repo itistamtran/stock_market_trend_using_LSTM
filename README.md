@@ -8,9 +8,10 @@ Evaluation metrics, visualizations, and signal logic are included to assess perf
 ## Project Structure
 
 - `stock_market_trend_using_LSTM.ipynb`: Main notebook for data preprocessing, training, and prediction.
-- `min_predictions_aapl.csv`: Rescaled 1-minute prediction file.
+- `min_predictions_aapl.csv`: Rescaled 1-minute prediction for Apple Inc. stock
+- `daily_predictions_aapl.csv`: Rescaled daily prediction for Apple Inc. stock 
 - `model_predictions_log.csv`: Combined prediction log for both models.
-- `requirements.txt`: Python dependencies.
+- `requirements.txt`: Python dependencies required to run the project.
 
 ## Features
 
