@@ -1,4 +1,4 @@
-# Stock Market Trend Prediction using LSTM 📈
+# Stock Market Trend Prediction using LSTM 
 
 This project uses Long Short-Term Memory (LSTM) neural networks to predict Apple (AAPL) stock prices using both daily and 1-minute intraday data. The model outputs predictions, evaluates accuracy, and flags strong buy signals when both timeframes agree.
 
